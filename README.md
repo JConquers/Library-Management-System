@@ -1,6 +1,6 @@
-# OLMS - Online Library Management System
+# LMS - Library Management System
 
-OLMS is a mini project made as a part of the Operating Systems Lab Course.
+LMS is a mini project made as a part of the Software Engineering Lab Course.
 
 ## Context
 
